@@ -4,11 +4,11 @@ This test was ran twice against the target.com homepage. Request pictured below:
 
 ![Jmeter Homepage](JmeterHomepage.png)
 <br>
-
+<br>
 The thread group named Users consisted of 30 threads looping 50 times over a 30 second period. Seen below:
 ![Jmeter Thread Group](JmeterThreadGroup.png)
 <br>
-
+<br>
 The first run had a 426 ms response time, with a 159 average, 97 median and deviation of 131. <br>
 The second run had a 332 ms response time, with a 101 average, 36 median and a deviation of 146.<br>
 <br>
